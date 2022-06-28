@@ -16,6 +16,11 @@ Predict customer's response to the company marketing campaigns based on bahavior
 
 2. Technical skills
 Clean, Transform and ELT  to data warehouse
+
 Analyze Data, Organize a data cubes to query data.
+
 Data visualization, run reports using Power BI and SSRS
+
 Data mining: Using data mining methods such as Decision tree, Logistic regression , Clustering
+
+
